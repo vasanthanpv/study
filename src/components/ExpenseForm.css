@@ -1,0 +1,19 @@
+/* .row
+{
+  
+    display: table;
+    width: 125px;
+
+}
+
+.column{
+    float: left;
+
+} */
+
+
+.wrapper
+{
+    border: 3px solid chocolate;
+    padding: 10px;
+}
